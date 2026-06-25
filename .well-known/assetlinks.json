@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.schmidi321.pingpongcounter",
+    "sha256_cert_fingerprints": ["DE:30:2C:B9:A1:4D:72:E1:0A:6C:EB:E1:8D:B5:F6:9D:C9:CC:3B:CC:41:44:AB:47:AD:DE:3A:16:E1:E6:B7:53"]
+  }
+}]
